@@ -23,4 +23,4 @@ I created this repository to improve my programming fundamentals and build consi
 More programs related to variables, loops, arrays, functions, and mini projects will be added.
 
 ## 👨‍💻 Author
-Dev Jadaun
+Dev Kumar Jadaun
