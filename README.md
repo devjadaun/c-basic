@@ -7,7 +7,9 @@ I created this repository to improve my programming fundamentals and build consi
 
 ## 📂 Programs Included
 - Hello World Program  
-- Introduction Program  
+- Introduction Program
+- Variables Program
+- User Input Program
 
 ## 🛠 Tools Used
 - GCC Compiler  
