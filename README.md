@@ -10,6 +10,10 @@ I created this repository to improve my programming fundamentals and build consi
 - Introduction Program
 - Variables Program
 - User Input Program
+- Operators Program  
+- Area Calculation Program  
+- Swap Two Numbers Program  
+
 
 ## 🛠 Tools Used
 - GCC Compiler  
