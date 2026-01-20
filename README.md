@@ -12,7 +12,10 @@ I created this repository to improve my programming fundamentals and build consi
 - User Input Program
 - Operators Program  
 - Area Calculation Program  
-- Swap Two Numbers Program  
+- Swap Two Numbers Program
+- Even or Odd Program  
+- Positive Negative Checker  
+- Pass Fail Program  
 
 
 ## 🛠 Tools Used
