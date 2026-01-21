@@ -15,7 +15,11 @@ I created this repository to improve my programming fundamentals and build consi
 - Swap Two Numbers Program
 - Even or Odd Program  
 - Positive Negative Checker  
-- Pass Fail Program  
+- Pass Fail Program
+- Grade System Program  
+- Largest of Three Numbers Program  
+- Menu Based Calculator Program  
+
 
 
 ## 🛠 Tools Used
