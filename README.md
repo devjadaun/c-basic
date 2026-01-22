@@ -18,7 +18,11 @@ I created this repository to improve my programming fundamentals and build consi
 - Pass Fail Program
 - Grade System Program  
 - Largest of Three Numbers Program  
-- Menu Based Calculator Program  
+- Menu Based Calculator Program
+- Eligibility Checker Program  
+- Login System Program  
+- Result Evaluation Program  
+
 
 
 
