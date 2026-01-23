@@ -1,43 +1,91 @@
-# C Basics
+# C Basics 🚀
 
-This repository contains my beginner-level C programming practice while learning core concepts of the C language.
+This repository contains my C programming practice programs while learning core fundamentals and improving problem-solving skills.
+
+---
 
 ## 📌 About
-I created this repository to improve my programming fundamentals and build consistency by practicing C programs daily.
 
-## 📂 Programs Included
+I created this repository to build strong foundations in C programming by practicing daily and organizing programs topic-wise.
+
+---
+
+## 📂 Project Structure
+
+c-basic/
+├── basics/
+├── conditions/
+├── nested-if/
+├── README.md
+└── .gitignore
+
+---
+
+## 🧠 Topics Covered
+
+### ✅ Basics
 - Hello World Program  
-- Introduction Program
-- Variables Program
-- User Input Program
+- Introduction Program  
+- Variables Program  
+- User Input Program  
 - Operators Program  
-- Area Calculation Program  
-- Swap Two Numbers Program
-- Even or Odd Program  
+- Area of Rectangle  
+- Swap Two Numbers  
+
+---
+
+### ✅ Conditions (If-Else & Else-If)
+- Even Odd Checker  
 - Positive Negative Checker  
-- Pass Fail Program
-- Grade System Program  
-- Largest of Three Numbers Program  
-- Menu Based Calculator Program
-- Eligibility Checker Program  
-- Login System Program  
+- Pass Fail Program  
+- Grade System  
+- Largest of Three Numbers  
+- Menu Based Calculator  
+
+---
+
+### ✅ Nested If
+- Eligibility Checker  
+- Login System  
 - Result Evaluation Program  
 
+---
 
+## 🛠 Tools & Technologies
 
-
-## 🛠 Tools Used
+- C Programming Language  
 - GCC Compiler  
 - Visual Studio Code  
+- Git & GitHub  
+
+---
 
 ## 🎯 Learning Goals
-- Understand C fundamentals  
-- Improve logical thinking  
-- Prepare for DSA and core programming subjects  
-- Build a strong GitHub profile  
 
-## 🚀 Future Updates
-More programs related to variables, loops, arrays, functions, and mini projects will be added.
+- Strengthen C fundamentals  
+- Improve logical thinking  
+- Prepare for DSA  
+- Build a strong GitHub profile  
+- Write clean and organized code  
+
+---
+
+## 🚀 Future Plans
+
+- Loops and pattern programs  
+- Arrays and strings  
+- Functions and pointers  
+- File handling  
+- Mini projects  
+
+---
 
 ## 👨‍💻 Author
-Dev Kumar Jadaun
+
+**Dev Jadaun**  
+Computer Science Student  
+Learning Software Development  
+
+---
+
+⭐ Feel free to star this repository if you like it!
