@@ -51,6 +51,13 @@ c-basic/
 
 ---
 
+### ✅ Loop
+- Number 1 to 10
+- Table of any number
+- Sum of Numbers 
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
@@ -72,7 +79,7 @@ c-basic/
 
 ## 🚀 Future Plans
 
-- Loops and pattern programs  
+- Pattern programs  
 - Arrays and strings  
 - Functions and pointers  
 - File handling  
