@@ -58,6 +58,13 @@ c-basic/
 
 ---
 
+### ✅ While Loop
+- Print Numbers Using While Loop  
+- Reverse a Number Program  
+- Sum of Digits Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
