@@ -65,6 +65,13 @@ c-basic/
 
 ---
 
+### ✅ Do While Loop
+- Print Numbers Using Do While  
+- Menu Based Calculator (Do While)  
+- Password Validation Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
