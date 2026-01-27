@@ -72,6 +72,13 @@ c-basic/
 
 ---
 
+### ✅ Loop Practice Programs
+- Factorial Program  
+- Fibonacci Series Program  
+- Prime Number Checker  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
