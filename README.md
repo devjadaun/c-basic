@@ -79,6 +79,13 @@ c-basic/
 
 ---
 
+### ✅ Number Logic Programs
+- Palindrome Number Program  
+- Armstrong Number Program  
+- Palindrome String Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
