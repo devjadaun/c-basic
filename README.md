@@ -86,6 +86,13 @@ c-basic/
 
 ---
 
+### ✅ Pattern Programs
+- Star Triangle Pattern  
+- Inverted Star Pattern  
+- Number Pattern Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
