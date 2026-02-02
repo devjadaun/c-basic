@@ -93,6 +93,13 @@ c-basic/
 
 ---
 
+### ✅ Advanced Pattern Programs
+- Pyramid Star Pattern  
+- Half Diamond Pattern  
+- Floyd's Triangle Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
