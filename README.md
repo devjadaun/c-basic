@@ -100,6 +100,13 @@ c-basic/
 
 ---
 
+### ✅ Arrays (1D)
+- Array Input Output Program  
+- Sum of Array Elements  
+- Find Maximum Element  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
