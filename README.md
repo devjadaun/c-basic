@@ -107,6 +107,13 @@ c-basic/
 
 ---
 
+### ✅ Array Operations
+- Reverse Array Program  
+- Linear Search Program  
+- Bubble Sort Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
