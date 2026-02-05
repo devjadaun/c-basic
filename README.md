@@ -114,6 +114,13 @@ c-basic/
 
 ---
 
+### ✅ 2D Arrays (Matrices)
+- Matrix Input Output  
+- Matrix Addition  
+- Matrix Transpose  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
