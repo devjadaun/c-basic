@@ -121,6 +121,13 @@ c-basic/
 
 ---
 
+### ✅ Strings in C
+- String Input Output  
+- String Length Without strlen  
+- String Copy Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
