@@ -135,6 +135,13 @@ c-basic/
 
 ---
 
+### ✅ Functions in C
+- Addition Using Function  
+- Factorial Using Function  
+- Prime Check Using Function  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
