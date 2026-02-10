@@ -128,6 +128,13 @@ c-basic/
 
 ---
 
+### ✅ String Logic Programs
+- Reverse String Program  
+- Palindrome String Checker  
+- Vowel Count Program  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
