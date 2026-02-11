@@ -142,6 +142,13 @@ c-basic/
 
 ---
 
+### ✅ Advanced Functions
+- Swap Using Pass by Value  
+- Swap Using Pass by Reference  
+- Find Maximum Using Function  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
