@@ -149,6 +149,13 @@ c-basic/
 
 ---
 
+### ✅ Pointers (Basics)
+- Pointer Demonstration  
+- Modify Value Using Pointer  
+- Pointer with Array  
+
+---
+
 ## 🛠 Tools & Technologies
 
 - C Programming Language  
